@@ -106,4 +106,3 @@ A suggested ~3 minute walkthrough for the second video:
    start, and that the project's `todo` list (visible in `/metadata`) names
    database support as a future step.
 
-Then upload the recording and submit the link.
