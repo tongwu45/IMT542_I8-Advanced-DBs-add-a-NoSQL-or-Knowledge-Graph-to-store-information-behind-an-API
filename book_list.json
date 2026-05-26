@@ -1,0 +1,209 @@
+{
+   "author":"Steve",
+   "project":"Portable Information Structure for Books I Read",
+   "about":"Store and represent information about what I read in a structure that can be integrated with other information and not locked into proprietary systems or formats",
+   "use":"A Flask app serves a REST end point, with a React App for reading and inserting information",
+   "todo":"Add data base support, add cloud hosting, add authentication, add multi-user support, add metadata support and quality checking for universal identifier for ISBN or other services",
+   "entries":[
+    {
+      "title": "The Old Man and the Sea",
+      "author": "Ernest Hemingway",
+      "year": 1952,
+      "genre": "Fiction",
+      "isbn": "978-0-684-80122-3",
+      "purchased_date": "2020-07-10",
+      "read": true,
+      "rating": 4
+    },
+    {
+      "title": "A Farewell to Arms",
+      "author": "Ernest Hemingway",
+      "year": 1929,
+      "genre": "War",
+      "isbn": "978-0-684-80146-9",
+      "purchased_date": "2021-01-22",
+      "read": true,
+      "rating": 5
+    },
+    {
+      "title": "Herzog",
+      "author": "Saul Bellow",
+      "year": 1964,
+      "genre": "Literary Fiction",
+      "isbn": "978-0-14-243729-2",
+      "purchased_date": "2022-08-14",
+      "read": false,
+      "rating": null
+    },
+    {
+      "title": "Humboldt's Gift",
+      "author": "Saul Bellow",
+      "year": 1975,
+      "genre": "Literary Fiction",
+      "isbn": "978-0-14-018944-5",
+      "purchased_date": null,
+      "read": true,
+      "rating": null
+    },
+    {
+      "title": "Disgrace",
+      "author": "J.M. Coetzee",
+      "year": 1999,
+      "genre": "Fiction",
+      "isbn": "978-0-14-029640-2",
+      "purchased_date": "2023-02-03",
+      "read": true,
+      "rating": 5
+    },
+    {
+      "title": "Waiting for the Barbarians",
+      "author": "J.M. Coetzee",
+      "year": 1980,
+      "genre": "Political Fiction",
+      "isbn": "978-0-14-006110-9",
+      "purchased_date": "2024-04-18",
+      "read": false,
+      "rating": null
+    },
+    {
+      "title": "Kafka on the Shore",
+      "author": "Haruki Murakami",
+      "year": 2002,
+      "genre": "Magical Realism",
+      "isbn": "978-1-4000-3473-5",
+      "purchased_date": "2021-11-09",
+      "read": true,
+      "rating": 4
+    },
+    {
+      "title": "Norwegian Wood",
+      "author": "Haruki Murakami",
+      "year": 1987,
+      "genre": "Romance",
+      "isbn": "978-0-375-70402-7",
+      "purchased_date": "2020-12-20",
+      "read": true,
+      "rating": 5
+    },
+    {
+      "title": "The Wild Marsh",
+      "author": "Rick Bass",
+      "year": 2009,
+      "genre": "Nature Writing",
+      "isbn": "978-0-618-84088-2",
+      "purchased_date": "2023-05-01",
+      "read": false,
+      "rating": null
+    },
+    {
+      "title": "The Watch",
+      "author": "Rick Bass",
+      "year": 1989,
+      "genre": "Short Stories",
+      "isbn": "978-0-393-30742-2",
+      "purchased_date": "2023-12-11",
+      "read": true,
+      "rating": 4
+    },
+    {
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "year": 2006,
+      "genre": "Post-apocalyptic",
+      "isbn": "978-0-307-26543-2",
+      "purchased_date": "2021-04-05",
+      "read": true,
+      "rating": 5
+    },
+    {
+      "title": "Blood Meridian",
+      "author": "Cormac McCarthy",
+      "year": 1985,
+      "genre": "Western",
+      "isbn": "978-0-679-72875-0",
+      "purchased_date": "2022-09-29",
+      "read": false,
+      "rating": null
+    },
+    {
+      "title": "The Master and Margarita",
+      "author": "Mikhail Bulgakov",
+      "year": 1967,
+      "genre": "Fantasy",
+      "isbn": "978-0-679-42932-9",
+      "purchased_date": null,
+      "read": false,
+      "rating": null
+    },
+    {
+      "title": "The Savage Detectives",
+      "author": "Roberto Bola\u00f1o",
+      "year": 1998,
+      "genre": "Literary Fiction",
+      "isbn": "978-0-312-42747-6",
+      "purchased_date": "2024-06-21",
+      "read": false,
+      "rating": null
+    },
+    {
+      "title": "2666",
+      "author": "Roberto Bola\u00f1o",
+      "year": 2004,
+      "genre": "Literary Fiction",
+      "isbn": "978-0-312-42748-3",
+      "purchased_date": null,
+      "read": false,
+      "rating": null
+    },
+    {
+      "title": "The Mezzanine",
+      "author": "Nicholson Baker",
+      "year": 1988,
+      "genre": "Experimental Fiction",
+      "isbn": "978-0-8021-3642-4",
+      "purchased_date": "2021-03-30",
+      "read": true,
+      "rating": 3
+    },
+    {
+      "title": "The Unbearable Lightness of Being",
+      "author": "Milan Kundera",
+      "year": 1984,
+      "genre": "Philosophical Fiction",
+      "isbn": "978-0-06-114852-1",
+      "purchased_date": "2022-01-10",
+      "read": true,
+      "rating": 5
+    },
+    {
+      "title": "The Magic Mountain",
+      "author": "Thomas Mann",
+      "year": 1924,
+      "genre": "Modernist Fiction",
+      "isbn": "978-0-679-60106-0",
+      "purchased_date": null,
+      "read": false,
+      "rating": null
+    },
+    {
+      "title": "Tree of Smoke",
+      "author": "Denis Johnson",
+      "year": 2007,
+      "genre": "War Fiction",
+      "isbn": "978-0-374-15827-3",
+      "purchased_date": "2022-10-07",
+      "read": true,
+      "rating": 4
+    },
+    {
+      "title": "Jesus' Son",
+      "author": "Denis Johnson",
+      "year": 1992,
+      "genre": "Short Stories",
+      "isbn": "978-0-312-42402-4",
+      "purchased_date": "2023-07-17",
+      "read": true,
+      "rating": 5
+    }
+]
+}
